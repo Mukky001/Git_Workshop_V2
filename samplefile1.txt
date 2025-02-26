@@ -3,3 +3,7 @@ This is sample file1
 
 "I've always depended on the kindness of strangers": A famous line from A Streetcar Named Desire by Tennessee Williams 
 
+Revert "Reapply "commit revert 2""
+
+This is comparison lecture
+
