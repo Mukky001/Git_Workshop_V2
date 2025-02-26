@@ -1,14 +1,3 @@
 Revert "Reapply "commit revert 2""
 
-This reverts commit 81a5ad3683ddc28f60f7296bdb3e5f3966e314f9.
-
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch main
-# Your branch is ahead of 'origin/main' by 2 commits.
-#   (use "git push" to publish your local commits)
-#
-# Changes to be committed:
-#	modified:   samplefile1.txt
-#
+This is comparison lecture
