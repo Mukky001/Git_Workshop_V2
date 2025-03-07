@@ -7,3 +7,4 @@ Revert "Reapply "commit revert 2""
 
 This is comparison lecture
 
+This is stash lecture, change in file 1
